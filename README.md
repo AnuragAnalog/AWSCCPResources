@@ -78,6 +78,10 @@ Some additional resources, which I have looked at are:
 * [AWS Networking Fundamentals](https://www.youtube.com/watch?v=hiKPPy584Mg)
 * [AWS Cost Optimization Series](https://www.youtube.com/playlist?list=PLhr1KZpdzukcxUPo44KHv2lkRG4NToQXJ)
 
+#### Discount Coupon
+
+If you are a women, who want to take this certification, you will receive 50% discount, by following the steps in this [link](https://pages.awscloud.com/cloudup-for-her-cloud-practitioner.html)
+
 #### Retake
 
 If you give enough preparation time, then you will pass the exam. But events in your life can be unpredictable, by any chance if the exam result is not as expected(miss the pass score). You can retake the exam. More information can be found at [Free Retake](https://home.pearsonvue.com/aws/freeretake)
